@@ -2,7 +2,7 @@ tensorflow==1.15.0
 keras==2.1.5
 numpy==1.17.3
 pandas==0.25.2
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 shapely==1.6.4.post2
 Pillow==6.2.1
 Flask==1.1.1
